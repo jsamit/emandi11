@@ -1,0 +1,15 @@
+package com.app.emandi11.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import com.app.emandi11.Pojos.FarmerPojo;
+
+@Repository
+public interface IfarmerDao extends JpaRepository<FarmerPojo, Integer>
+{
+
+	
+	
+	
+}
