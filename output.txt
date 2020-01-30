@@ -1,0 +1,58 @@
+// localhost:8080//getFarmerWithProducts/1
+
+{
+    "FarmerPojo [f_Id=1, f_adhaarId=789654, f_email=ankur@gmail.com, f_contact=7894561230, f_address=pune, f_city=lucknow, f_state=mp, f_pincode=789654]": [
+        {
+            "pId": 1,
+            "pCategory": "rabi",
+            "prodName": "rice",
+            "pPrice": 4500.0,
+            "pQuantity": 4,
+            "pQuality": "poor"
+        },
+        {
+            "pId": 5,
+            "pCategory": "rabi002",
+            "prodName": "rice",
+            "pPrice": 4500.0,
+            "pQuantity": 4,
+            "pQuality": "poor"
+        },
+        {
+            "pId": 6,
+            "pCategory": "rabi002",
+            "prodName": "wheat",
+            "pPrice": 4500.0,
+            "pQuantity": 4,
+            "pQuality": "poor"
+        }
+    ],
+    "FarmerPojo [f_Id=2, f_adhaarId=789656, f_email=ankur01@gmail.com, f_contact=7894561235, f_address=pune, f_city=lucknow, f_state=mp, f_pincode=789655]": [
+        {
+            "pId": 2,
+            "pCategory": "rabi001",
+            "prodName": "rice",
+            "pPrice": 4500.0,
+            "pQuantity": 4,
+            "pQuality": "poor"
+        },
+        {
+            "pId": 4,
+            "pCategory": "rabi005",
+            "prodName": "rice",
+            "pPrice": 4500.0,
+            "pQuantity": 4,
+            "pQuality": "poor"
+        }
+    ],
+    "FarmerPojo [f_Id=3, f_adhaarId=783654, f_email=ankur02@gmail.com, f_contact=7894541235, f_address=pune, f_city=lucknow, f_state=mp, f_pincode=789655]": [
+        {
+            "pId": 3,
+            "pCategory": "rabi003",
+            "prodName": "rice",
+            "pPrice": 4500.0,
+            "pQuantity": 4,
+            "pQuality": "poor"
+        }
+    ]
+}
